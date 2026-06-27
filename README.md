@@ -2,6 +2,8 @@
 
 FastAPI backend service for the **Currency Exchange App**, providing user signup with OTP verification, login, currency conversion, and account management. Deployed on **Render Web Services** with a **Supabase Postgres database**.
 
+**Note on Live Demo:** Due to the limitations of free-tier cloud hosting platforms, the live backend service is currently offline. The full codebase remains available for local deployment.
+
 ---
 
 ## Features
